@@ -1,0 +1,26 @@
+.place-container {
+  padding: 0 10px;
+}
+
+.place-container .place {
+  margin-bottom: 20px;
+}
+
+.place-container .place .name {
+  font-weight: 600;
+  color: rgb(54, 163, 50);
+  margin-bottom: 10px;
+}
+
+.place-container .place .description {
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.place-container .place .operational {
+  color: rgb(54, 163, 50);
+  border: 1px solid rgb(54, 163, 50);
+  width: max-content;
+  padding: 5px 10px;
+  border-radius: 20px;
+}

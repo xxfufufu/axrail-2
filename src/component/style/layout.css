@@ -1,0 +1,8 @@
+.layout {
+  max-width: 400px;
+  margin: 0 auto;
+  height: 100vh;
+  padding: 0 10px;
+  overflow: auto;
+  position: relative;
+}
